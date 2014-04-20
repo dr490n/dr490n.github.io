@@ -52,7 +52,7 @@
         <header role="banner"><hgroup>
   <h1><a href="/">落魄码农手札</a></h1>
   
-    <h2>写这个网站的人，是个没有啥名气的码农……这里只有一些自己的（也或者是别人的）经验和总结。 代码啥的是会有的，但是我没办法保证这段代码没有Bug……除非它是“Hello,World”！</h2>
+    <h2>写这个网站的人，是个没有啥名气的码农……这里只有一些自己的（也或者是别人的）经验和总结。<br /> 代码啥的是会有的，但是我没办法保证这段代码没有Bug……除非它是“Hello,World”！</h2>
   
 </hgroup>
 
@@ -77,6 +77,15 @@
   <h2>recent</h2>
   <ul id="recent_posts">
     
+  </ul>
+</section>
+
+<section>
+  <h2>github</h2>
+  
+  <a href="https://github.com/dr490n">@dr490n</a>
+  
+  <ul id="gh_repos">
   </ul>
 </section>
 
@@ -114,6 +123,17 @@
 </footer>
     
 
+<script type="text/javascript">
+  disqus_shortname = 'l-p';
+  
+  (function () {
+    var disqus_script = 'count.js';
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  }());
+</script>
+
 
 
 
@@ -140,6 +160,26 @@
 <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
 <script src="/javascripts/libs/respond.js" type="text/javascript"></script>
 <script src="/javascripts/octopress.js" type="text/javascript"></script>
+
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+  <script type="text/javascript">
+  $(document).ready(function(){
+    if (!window.jXHR){
+      var jxhr = document.createElement('script');
+      jxhr.type = 'text/javascript';
+      jxhr.src = '/javascripts/libs/jXHR.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jxhr, s);
+    }
+
+    github.showRepos({
+      user: 'dr490n',
+      count: 0,
+      skip_forks: true,
+      target: '#gh_repos'
+    });
+  });
+  </script>
 
 
 <script type="text/javascript">
