@@ -4,7 +4,7 @@
   <title><![CDATA[落魄码农手札]]></title>
   <link href="http://www.l-p.pw/atom.xml" rel="self"/>
   <link href="http://www.l-p.pw/"/>
-  <updated>2014-04-20T18:11:35+08:00</updated>
+  <updated>2014-04-20T18:20:55+08:00</updated>
   <id>http://www.l-p.pw/</id>
   <author>
     <name><![CDATA[dr490n]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[继续写测试文章]]></title>
+    <link href="http://www.l-p.pw/blog/2014/04/new-start/"/>
+    <updated>2014-04-20T18:13:00+08:00</updated>
+    <id>http://www.l-p.pw/blog/2014/04/new-start</id>
+    <content type="html"><![CDATA[<p><img class="left" src="'http://img.l-p.pw/moe5/2012/07/33383-2450x1476.jpg'"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[测试页面]]></title>
