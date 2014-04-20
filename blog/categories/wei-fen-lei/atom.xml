@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 未分类 | 落魄码农手札]]></title>
   <link href="http://www.l-p.pw/blog/categories/wei-fen-lei/atom.xml" rel="self"/>
   <link href="http://www.l-p.pw/"/>
-  <updated>2014-04-20T18:22:54+08:00</updated>
+  <updated>2014-04-20T18:42:31+08:00</updated>
   <id>http://www.l-p.pw/</id>
   <author>
     <name><![CDATA[dr490n]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[终于弄懂Octopress处理主题的逻辑了！]]></title>
+    <link href="http://www.l-p.pw/blog/2014/04/octopress-blog/"/>
+    <updated>2014-04-20T18:29:00+08:00</updated>
+    <id>http://www.l-p.pw/blog/2014/04/octopress-blog</id>
+    <content type="html"><![CDATA[<p>终于弄懂Octopress处理主题的逻辑了！
+各种测试啊……传了几次次！</p>
+
+<!--more-->
+
+
+<p>不过，这个Octopress的生成程序还是有点问题，就是对已经发布的页面进行修改的时候，首页没办法同步显示出修改的内容。
+一定要新增加一篇文章才能更新首页的内容。不过……我的这个主题到了第二个主题就不显示文章详情了。也没啥办法测试……
+最后就是，CloudFlare的CDN对于天朝来说是一个非常麻烦的东西，经常出现无法解析的情况。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[继续写测试文章]]></title>
