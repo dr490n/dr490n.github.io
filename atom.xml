@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[落魄码农手札]]></title>
-  <link href="http://www.l-p.pw/atom.xml" rel="self"/>
-  <link href="http://www.l-p.pw/"/>
-  <updated>2014-06-09T11:23:02+08:00</updated>
-  <id>http://www.l-p.pw/</id>
+  <title><![CDATA[惰性环路]]></title>
+  <link href="http://lazy.pw/atom.xml" rel="self"/>
+  <link href="http://lazy.pw/"/>
+  <updated>2014-06-09T11:29:51+08:00</updated>
+  <id>http://lazy.pw/</id>
   <author>
     <name><![CDATA[dr490n]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[终于弄懂Octopress处理主题的逻辑了！]]></title>
-    <link href="http://www.l-p.pw/blog/2014/04/octopress-blog/"/>
+    <link href="http://lazy.pw/blog/2014/04/octopress-blog/"/>
     <updated>2014-04-20T18:29:00+08:00</updated>
-    <id>http://www.l-p.pw/blog/2014/04/octopress-blog</id>
+    <id>http://lazy.pw/blog/2014/04/octopress-blog</id>
     <content type="html"><![CDATA[<p>终于弄懂Octopress处理主题的逻辑了！
 各种测试啊……传了几次次！</p>
 
@@ -32,18 +32,18 @@
   
   <entry>
     <title type="html"><![CDATA[继续写测试文章]]></title>
-    <link href="http://www.l-p.pw/blog/2014/04/new-start/"/>
+    <link href="http://lazy.pw/blog/2014/04/new-start/"/>
     <updated>2014-04-20T18:13:00+08:00</updated>
-    <id>http://www.l-p.pw/blog/2014/04/new-start</id>
+    <id>http://lazy.pw/blog/2014/04/new-start</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://img.l-p.pw/moe5/2012/07/33383-2450x1476.jpg"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[测试页面]]></title>
-    <link href="http://www.l-p.pw/blog/2014/04/test-post/"/>
+    <link href="http://lazy.pw/blog/2014/04/test-post/"/>
     <updated>2014-04-20T17:43:00+08:00</updated>
-    <id>http://www.l-p.pw/blog/2014/04/test-post</id>
+    <id>http://lazy.pw/blog/2014/04/test-post</id>
     <content type="html"><![CDATA[<p>欢迎光临！
 这是一个测试页面而已，各位忽略掉吧？</p>
 

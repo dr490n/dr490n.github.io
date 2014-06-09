@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.l-p.pw/blog/2014/04/test-post/</loc>
+        <loc>http://lazy.pw/blog/2014/04/test-post/</loc>
         <lastmod>2014-06-09T11:18:17+08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.l-p.pw/blog/2014/04/new-start/</loc>
+        <loc>http://lazy.pw/blog/2014/04/new-start/</loc>
         <lastmod>2014-06-09T11:18:17+08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.l-p.pw/blog/2014/04/octopress-blog/</loc>
+        <loc>http://lazy.pw/blog/2014/04/octopress-blog/</loc>
         <lastmod>2014-06-09T11:18:17+08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.l-p.pw/blog/archives/</loc>
+        <loc>http://lazy.pw/blog/archives/</loc>
         <lastmod>2014-06-09T11:18:17+08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.l-p.pw/</loc>
+        <loc>http://lazy.pw/</loc>
         <lastmod>2014-06-09T11:18:17+08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.l-p.pw/robots.txt</loc>
+        <loc>http://lazy.pw/robots.txt</loc>
         <lastmod>2014-04-20T15:24:58+08:00</lastmod>
     </url>
 </urlset>

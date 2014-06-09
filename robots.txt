@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.l-p.pw/sitemap.xml 
+Sitemap: http://lazy.pw/sitemap.xml 
